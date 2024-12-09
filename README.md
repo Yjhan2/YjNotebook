@@ -1,0 +1,2 @@
+# YjNotebook
+Take notes casually
